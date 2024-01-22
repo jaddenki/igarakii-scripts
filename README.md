@@ -1,5 +1,6 @@
 # igarakii-scripts
-scripts for after effects in order to enhance my workflow
+---
+#### scripts for after effects in order to enhance my workflow
 ---
 ## what i plan to include:
 - automatically adds a bouncy reveal text animation to a text layer that changes the scale, position, and rotation of each individual letter
