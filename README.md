@@ -1,5 +1,4 @@
 # igarakii-scripts
----
 #### scripts for after effects in order to enhance my workflow
 ---
 ## what i plan to include:
